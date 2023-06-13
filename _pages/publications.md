@@ -48,7 +48,7 @@ Publications
 
 * 33 **Xu, H.<sup>*</sup>**, Xu, C., Yang, Z., Bai, G., Yin, B.<sup>*</sup> (2023). Two sides of the same coin: Distinct neuroanatomical patterns predict crystallized and fluid intelligence in adults. Front. Neurosci. https://doi.org/10.3389/fnins.2023.1199106 (SCI, IF=5.152, JCR Q2)
 
-* 32 Owens, M., Hyatt, C., **Xu, H.**, Thompson, M., Miller, J., Lynam, D., MacKillop, J., Gray, J. (2023). Test-Retest Reliability of the Neuroanatomical Correlates of Impulsive Personality Traits in the ABCD Study. Accept at Journal of Psychopathology and Clinical Science. https://doi.org/10.31234/osf.io/u3bxc (SSCI, IF=7.507, JCR Q1)
+* 32 Owens, M. M., Hyatt, C. S., **Xu, H.**, Thompson, M. F., Miller, J. D., Lynam, D. R., MacKillop, J., & Gray, J. C. (2023). Test–Retest Reliability of the Neuroanatomical Correlates of Impulsive Personality Traits in the Adolescent Brain Cognitive Development Study. Journal of Psychopathology and Clinical Science. https://doi.org/10.1037/abn0000832 (SSCI, IF=7.507, JCR Q1)
 
 * 31 **Xu, H.**, MacKillop, J., Owens, M. M. (2023). A machine learning- derived neuroanatomical pattern predicts delayed reward discounting in the Human Connectome Project Young Adult sample. Journal of Neuroscience Research, 00, 1-13. https://doi.org/10.1002/jnr.25185 (SCI, IF=4.433, JCR Q2)
 
